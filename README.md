@@ -3,5 +3,5 @@
 
 Other readme files:
 
-> [!NOTE] ЧТо-то
+> [!TIP] ЧТо-то
 > вдоадвода
