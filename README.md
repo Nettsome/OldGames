@@ -2,3 +2,6 @@
 
 
 Other readme files:
+
+> [!NOTE] ЧТо-то
+> вдоадвода
